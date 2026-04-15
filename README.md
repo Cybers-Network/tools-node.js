@@ -40,3 +40,6 @@ Then...
 100 URLs per request batch
 
 200 URLs per day
+<h1>DONATION PLEASE</h1>
+ <a href="https://saweria.co/driandev" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Tr_Zs2XHDAyDmh5TFiba-_cO_idAoFi6OQ&s" width="60" height="40" alt="linkedin logo"  />
